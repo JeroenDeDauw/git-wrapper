@@ -1,7 +1,7 @@
 Overview
 ========
 
-This library is a PHP wrapper around the Git command line tool. [![Build Status](https://travis-ci.org/cpliakas/git-wrapper.png?branch=master)](undefined)
+This library is a PHP wrapper around the Git command line tool. [![Build Status](https://travis-ci.org/cpliakas/git-wrapper.png?branch=master)](https://travis-ci.org/cpliakas/git-wrapper)
 
 Its purpose is to provide a readable API that abstracts some of the challenges
 of executing Git commands from within a PHP process. Specifically, this library
